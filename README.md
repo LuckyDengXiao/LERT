@@ -29,5 +29,5 @@ juliet.json: The baseline dataset augmented with data from some defect types in 
 
 vgx.json: The baseline dataset augmented with 1370 randomly selected entries from the Vgx dataset (as the Vgx dataset lacks defect type information).
 
---prompy:
+--prompt:
 This file is the prompt of the stage 1&2 in experiment RQ1.

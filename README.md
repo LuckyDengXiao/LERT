@@ -4,7 +4,6 @@ This repository contains the code and data related to LERT. The code section inc
 This directory contains the implementation of the Devign model. Usage:
 
 bash
-复制代码
 python [-c|-e|-p] main.py
 These options are used for generating the code fragment's CPG, generating embeddings, and training and testing, respectively. The data in the paper is derived from repeating the experiment 10 times and taking the arithmetic mean of the results.
 
@@ -12,7 +11,6 @@ These options are used for generating the code fragment's CPG, generating embedd
 This directory contains the implementation of the Reveal model. Usage:
 
 bash
-复制代码
 python [-c|-e|-pS|-p] main.py
 These options are used for generating the code fragment's CPG, generating embeddings, training and testing with the SMOTE mechanism, and training and testing without the SMOTE mechanism, respectively. The data in the paper is derived from repeating the experiment 10 times and taking the arithmetic mean of the results.
 

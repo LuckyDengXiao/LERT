@@ -1,6 +1,8 @@
-Related Paper:Improving long-tail vulnerability detection through data augmentation based on large language models
+Related Paper:Improving long-tail vulnerability detection through data augmentation based on large language models.
 
-This repository contains the code and data related to LERT. The code section includes the implementations of the Devign and Reveal models in LERT. The data section includes training and testing data from BigVul, as well as data enhanced from GPT-4, Vgx, and Juliet.
+We will constancely update and transverse the repository address in paper to github.
+
+This repository contains the code and data related to LERT. The code section includes the implementations of the Devign and Reveal models in LERT. The data section includes training and testing data from BigVul, as well as data enhanced from GPT-4, Vgx, and Juliet. 
 
 --Devign_modified:
 This directory contains the implementation of the Devign model. Usage:

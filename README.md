@@ -1,4 +1,4 @@
-Related Paper:Improving long-tail vulnerability detection through data augmentation based on large language models.
+Related Paper: Improving Long-tail Vulnerability Detection Through Data Augmentation Based on Large Language Models.
 
 We will constancely update and transverse the repository address in paper to github.
 
